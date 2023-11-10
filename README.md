@@ -20,4 +20,4 @@ HTML tags give a webpage its structure. You can use HTML tags to add photos, but
 
 ### Learn Basic CSS by Building a Cafe Menu
 
-CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
+CSS tells the browser how to display your webpage. You can use CSS to set the color, font, size, and other aspects of HTML elements.
